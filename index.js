@@ -1,6 +1,6 @@
 'use strict';
 
-function _checkEnvar(envar) {
+async function _checkEnvar(envar) {
   return {
     isOk: process.env.hasOwnProperty(envar)
   }

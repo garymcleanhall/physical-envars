@@ -1,6 +1,6 @@
 {
   "name": "physical-envars",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Physical module for testing presence of a required environment variable",
   "main": "index.js",
   "scripts": {
