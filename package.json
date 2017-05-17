@@ -4,7 +4,7 @@
   "description": "Physical module for testing presence of a required environment variable",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine tests/*"
+    "test": "./node_modules/.bin/jasmine tests/*"
   },
   "repository": {
     "type": "git",
